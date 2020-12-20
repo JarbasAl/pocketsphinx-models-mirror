@@ -1,0 +1,1 @@
+no info is provided in sourceforge about this model, it is simply named cmusphinx-pt-br-5.2
